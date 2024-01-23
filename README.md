@@ -1,1 +1,2 @@
 # Multi-rotor-UAV-Attitude-Estimation
+This is a project carried out in the Matlab-Simulink environment with the aim of deeply exploring and implementing attitude estimation algorithms for UAVs. My main work focuses on the development and testing of linear and nonlinear attitude estimators, as well as steps to evaluate the performance of the estimators under different flight conditions and environments.
